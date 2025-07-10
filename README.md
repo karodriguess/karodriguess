@@ -1,4 +1,4 @@
-<h3 align="left">Hi ! My name is Kariny. I'm developer front and web designer</h3>
+<h3 align="left">Hi ! My name is Kariny. I'm Front Developer </h3>
 
 ###
 
@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/karodriguess/karodriguess/output/snake.svg" alt="Snake animation" />
+
 
 ###
