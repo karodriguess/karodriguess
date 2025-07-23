@@ -1,4 +1,4 @@
-<h3 align="left">Hi ! My name is Kariny. I'm Front Developer  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" margin-left="5" height="18" alt="Logo linkedin"  />
+<h3 align="left">Hi ! My name is Kariny. I'm Software Developer!  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" margin-left="5" height="18" alt="Logo linkedin"  />
 
 
 ###
