@@ -1,4 +1,4 @@
-<h3 align="left">Hi ! My name is Kariny. I'm Front Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18" alt="Logo linkedin"  />
+<h3 align="left">Hi ! My name is Kariny. I'm Front Developer <p></p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18" alt="Logo linkedin"  />
 
 
 ###
@@ -19,11 +19,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://www.pngwing.com/en/free-png-amxds" height="20" alt="Node logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" height="20" alt="Node logo"  />
   <img width="12" />
-  <img src="https://worldvectorlogo.com/pt/logo/mongodb-icon-1" height="20" alt="MongoDB logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="MongoDB logo"  />
   <img width="12" />
-  <img src="https://icons8.com.br/icon/39855/logo-mysql" height="20" alt=" Mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt=" Mysql logo"  />
   <img width="12" />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
