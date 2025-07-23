@@ -1,4 +1,4 @@
-<h3 align="left">Hi ! My name is Kariny. I'm Front Developer <p></p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18" alt="Logo linkedin"  />
+<h3 align="left">Hi ! My name is Kariny. I'm Front Developer  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" margin-left="5" height="18" alt="Logo linkedin"  />
 
 
 ###
@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="MongoDB logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt=" Mysql logo"  />
-  <img width="12" />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
    <img width="12" />
