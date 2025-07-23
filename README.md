@@ -1,4 +1,5 @@
-<h3 align="left">Hi ! My name is Kariny. I'm Front Developer </h3>
+<h3 align="left">Hi ! My name is Kariny. I'm Front Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18" alt="Logo linkedin"  />
+
 
 ###
 
@@ -18,20 +19,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
+  <img src="https://www.pngwing.com/en/free-png-amxds" height="20" alt="Node logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
+  <img src="https://worldvectorlogo.com/pt/logo/mongodb-icon-1" height="20" alt="MongoDB logo"  />
   <img width="12" />
+  <img src="https://icons8.com.br/icon/39855/logo-mysql" height="20" alt=" Mysql logo"  />
+  <img width="12" />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="github logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
+  <img width="12" />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="Logo linkedin"  />
-</div>
-
-###
 
 <br clear="both">
 
