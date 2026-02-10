@@ -1,25 +1,21 @@
-<h3 align="left">Eu sou a Ka! Desenvolvedora de Software.  /><br> 
-<h6 style="color:#F5F5F5">Tecnologia & Engenharia de Software</h6><br><br>
+<h3 align="left">Eu sou a Ka! Desenvolvedora de Software.<img src="https://www.svgrepo.com/show/509965/git-repository.svg" height="20"/><br> 
+<h6 style="color:#F5F5F5">Tecnologia & Engenharia de Software</h6><br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
+  <img src="https://www.svgrepo.com/show/357915/java-script.svg" height="20" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
+  <img src="https://www.svgrepo.com/show/503536/react.svg" height="20" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo"  />
+  <img src="https://www.svgrepo.com/show/333609/tailwind-css.svg" height="20" alt="tailwind logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo"  />
+  <img src="https://www.svgrepo.com/show/372566/node.svg" height="20" alt="Node logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="Node logo"  />
+  <img src="https://www.svgrepo.com/show/372912/mysql.svg" height="20" alt=" Mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="MongoDB logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt=" Mysql logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
+   <img src="https://www.svgrepo.com/show/509966/git.svg" height="20" alt="git logo"  />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="github logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
+   <img src="https://www.svgrepo.com/show/473605/figma.svg" height="20" alt="figma logo"  />
   <img width="12" />
 </div>
 
