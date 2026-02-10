@@ -1,6 +1,7 @@
 <h3 align="left">Hi ! My name is Kariny. I'm Software Developer!  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" margin-left="5" height="18" alt="Logo linkedin"  /> 
-> *Tecnologia • Engenharia de Software*  
-</p><br>
+# 
+> *Tecnologia & Engenharia de Software.*  
+</p><br><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
