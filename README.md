@@ -1,5 +1,5 @@
-<h3 align="left">Hi ! My name is Kariny. I'm Software Developer! /> <br> 
-<p style="color:#F5F5F5">Tecnologia & Engenharia de Software</p><br><br>
+<h3 align="left">Eu sou a Ka! Desenvolvedora de Software.  /><br> 
+<h6 style="color:#F5F5F5">Tecnologia & Engenharia de Software</h6><br><br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
