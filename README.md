@@ -10,12 +10,16 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/372566/node.svg" height="20" alt="Node logo"  />
   <img width="12" />
+  <img src="https://companieslogo.com/img/orig/MDB-a12554b6.png?t=1720244492" height="20" alt="MongoDB"  />
+  <img width="12" />
   <img src="https://www.svgrepo.com/show/372912/mysql.svg" height="20" alt=" Mysql logo"  />
   <img width="12" />
    <img src="https://www.svgrepo.com/show/509966/git.svg" height="20" alt="git logo"  />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="github logo"  />
    <img src="https://www.svgrepo.com/show/473605/figma.svg" height="20" alt="figma logo"  />
+  <img width="12" />
+   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/development/docker-hg1pedguki7elmj7zzpw1w.png/docker-xqo7wujxqilykvirnqyj59.png?_a=DATAiZAAZAA0" height="20" alt="docker"  />
   <img width="12" />
 </div>
 
