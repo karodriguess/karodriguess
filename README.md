@@ -68,6 +68,7 @@ AWS
 </tr>
 </table>
 <br>
+
 ## <span style="color🟣"> Education</span>
 
 <table width="100%">
