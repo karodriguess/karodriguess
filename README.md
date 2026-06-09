@@ -67,8 +67,7 @@ AWS
 </td>
 </tr>
 </table>
-<br> <br> 
-
+<br>
 ## <span style="color🟣"> Education</span>
 
 <table width="100%">
@@ -116,7 +115,7 @@ Engenharia de Software
 </td>
 </tr>
 </table>
-<br><br><br>
+<br><br>
 
 <img width="100%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=karodriguess&theme=github-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF"/>
